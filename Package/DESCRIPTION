@@ -1,0 +1,9 @@
+Package: DMKDHeatDiseaseProject
+Type: Package
+Title: Heart Disease Study - Data Mining and Knowledge Discovery 
+Version: 0.1.0
+Author: person("Felipe", "Cortes", email = "felipe.cortes.jaramillo@etu.univ-st-etienne.fr",
+                  role = c("aut", "cre"))
+Description: This package is a project to identifying the main key factors for detecting Heart Disease.
+Encoding: UTF-8
+LazyData: true
